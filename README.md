@@ -31,7 +31,7 @@ A simple URL shortening service that converts long URLs into short, easily share
 ## Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+  [ git clone https://github.com/Richa1509/url-shortner-.git ]
    cd url-shortener
    ```
 2. Install dependencies:  
